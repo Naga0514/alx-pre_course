@@ -2,4 +2,8 @@
 echo “School”
 #!/bin/bash
 echo "The school is open!"
+<<<<<<< HEAD
 The school is open!
+=======
+
+>>>>>>> update_script
